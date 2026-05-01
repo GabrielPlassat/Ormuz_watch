@@ -1,145 +1,157 @@
 {
   "E01": {
-    "auto_status": 0,
-    "signal": "Erreur API GDELT",
+    "auto_status": 1,
+    "signal": "3 articles/24h · seuils (1, 4, 10)",
     "source": "GDELT",
-    "snippets": [],
-    "updated_at": "2026-05-01T14:41:11.288828"
+    "snippets": [
+      "U . S . Releases Six Iranian Seafarers While Moving for Forfeiture of Tankers (maritime-executive.com)",
+      "Why is piracy rising off Somalia again and is the Iran war responsible ?  (aljazeera.com)",
+      "Why is piracy rising off Somalia again and is the Iran war responsible ? - Grenada Chronic (grenadachronicle.com)"
+    ],
+    "updated_at": "2026-05-01T14:51:32.743836"
   },
   "E02": {
-    "auto_status": 0,
-    "signal": "Erreur API GDELT",
+    "auto_status": 2,
+    "signal": "3 articles/24h · seuils (1, 3, 7)",
     "source": "GDELT",
-    "snippets": [],
-    "updated_at": "2026-05-01T14:41:11.288846"
+    "snippets": [
+      "U . S . Releases Six Iranian Seafarers While Moving for Forfeiture of Tankers (maritime-executive.com)",
+      "Why is piracy rising off Somalia again and is the Iran war responsible ?  (aljazeera.com)",
+      "Why is piracy rising off Somalia again and is the Iran war responsible ? - Grenada Chronic (grenadachronicle.com)"
+    ],
+    "updated_at": "2026-05-01T14:51:32.743857"
   },
   "E03": {
-    "auto_status": 0,
-    "signal": "Erreur API GDELT",
+    "auto_status": 2,
+    "signal": "3 articles/24h · seuils (1, 3, 7)",
     "source": "GDELT",
-    "snippets": [],
-    "updated_at": "2026-05-01T14:41:11.288850"
+    "snippets": [
+      "U . S . Releases Six Iranian Seafarers While Moving for Forfeiture of Tankers (maritime-executive.com)",
+      "Why is piracy rising off Somalia again and is the Iran war responsible ?  (aljazeera.com)",
+      "Why is piracy rising off Somalia again and is the Iran war responsible ? - Grenada Chronic (grenadachronicle.com)"
+    ],
+    "updated_at": "2026-05-01T14:51:32.743863"
   },
   "E04": {
     "auto_status": 0,
     "signal": "Erreur API GDELT",
     "source": "GDELT",
     "snippets": [],
-    "updated_at": "2026-05-01T14:41:11.288861"
+    "updated_at": "2026-05-01T14:51:32.743877"
   },
   "E05": {
     "auto_status": 0,
     "signal": "Erreur API GDELT",
     "source": "GDELT",
     "snippets": [],
-    "updated_at": "2026-05-01T14:41:11.288865"
+    "updated_at": "2026-05-01T14:51:32.743881"
   },
   "E06": {
     "auto_status": 0,
     "signal": "Erreur API GDELT",
     "source": "GDELT",
     "snippets": [],
-    "updated_at": "2026-05-01T14:41:11.288868"
+    "updated_at": "2026-05-01T14:51:32.743885"
   },
   "E07": {
     "auto_status": 0,
-    "signal": "Erreur API GDELT",
+    "signal": "0 articles/24h · seuils (1, 2, 5)",
     "source": "GDELT",
     "snippets": [],
-    "updated_at": "2026-05-01T14:41:11.288873"
+    "updated_at": "2026-05-01T14:51:32.743891"
   },
   "E10": {
     "auto_status": 0,
-    "signal": "Erreur API GDELT",
+    "signal": "0 articles/24h · seuils (2, 5, 12)",
     "source": "GDELT",
     "snippets": [],
-    "updated_at": "2026-05-01T14:41:11.288876"
+    "updated_at": "2026-05-01T14:51:32.743897"
   },
   "E11": {
     "auto_status": 0,
-    "signal": "Erreur API GDELT",
+    "signal": "0 articles/24h · seuils (1, 3, 8)",
     "source": "GDELT",
     "snippets": [],
-    "updated_at": "2026-05-01T14:41:11.288880"
+    "updated_at": "2026-05-01T14:51:32.743902"
   },
   "E12": {
     "auto_status": 0,
     "signal": "Erreur API GDELT",
     "source": "GDELT",
     "snippets": [],
-    "updated_at": "2026-05-01T14:41:11.288884"
+    "updated_at": "2026-05-01T14:51:32.743906"
   },
   "E13": {
     "auto_status": 0,
     "signal": "Erreur API GDELT",
     "source": "GDELT",
     "snippets": [],
-    "updated_at": "2026-05-01T14:41:11.288887"
+    "updated_at": "2026-05-01T14:51:32.743909"
   },
   "E14": {
     "auto_status": 0,
-    "signal": "Erreur API GDELT",
+    "signal": "0 articles/24h · seuils (3, 8, 20)",
     "source": "GDELT",
     "snippets": [],
-    "updated_at": "2026-05-01T14:41:11.288890"
+    "updated_at": "2026-05-01T14:51:32.743914"
   },
   "E15": {
     "auto_status": 0,
     "signal": "Erreur API GDELT",
     "source": "GDELT",
     "snippets": [],
-    "updated_at": "2026-05-01T14:41:11.288922"
+    "updated_at": "2026-05-01T14:51:32.743918"
   },
   "E16": {
     "auto_status": 0,
     "signal": "Erreur API GDELT",
     "source": "GDELT",
     "snippets": [],
-    "updated_at": "2026-05-01T14:41:11.288932"
+    "updated_at": "2026-05-01T14:51:32.743921"
   },
   "E17": {
     "auto_status": 0,
     "signal": "Erreur API GDELT",
     "source": "GDELT",
     "snippets": [],
-    "updated_at": "2026-05-01T14:41:11.288936"
+    "updated_at": "2026-05-01T14:51:32.743924"
   },
   "E18": {
     "auto_status": 0,
-    "signal": "Erreur API GDELT",
+    "signal": "0 articles/24h · seuils (2, 5, 12)",
     "source": "GDELT",
     "snippets": [],
-    "updated_at": "2026-05-01T14:41:11.288939"
+    "updated_at": "2026-05-01T14:51:32.743929"
   },
   "E19": {
     "auto_status": 0,
-    "signal": "Erreur API GDELT",
+    "signal": "0 articles/24h · seuils (1, 2, 5)",
     "source": "GDELT",
     "snippets": [],
-    "updated_at": "2026-05-01T14:41:11.288942"
+    "updated_at": "2026-05-01T14:51:32.743934"
   },
   "E20": {
     "auto_status": 0,
     "signal": "Erreur API GDELT",
     "source": "GDELT",
     "snippets": [],
-    "updated_at": "2026-05-01T14:41:11.288944"
+    "updated_at": "2026-05-01T14:51:32.743937"
   },
   "E08": {
     "auto_status": 0,
-    "signal": "Tankers (FRO/STNG/DHT) moyenne vs MA20 : +3.2%",
+    "signal": "Tankers (FRO/STNG/DHT) moyenne vs MA20 : +2.5%",
     "source": "yFinance",
     "details": {
-      "FRO": "+2.3%",
-      "STNG": "+5.3%",
-      "DHT": "+2.1%"
+      "FRO": "+1.5%",
+      "STNG": "+4.4%",
+      "DHT": "+1.5%"
     },
-    "updated_at": "2026-05-01T14:41:18.445128"
+    "updated_at": "2026-05-01T14:51:40.082981"
   },
   "E09": {
     "auto_status": 0,
-    "signal": "Brent vs MA30 : +3.2% (proxy backwardation)",
+    "signal": "Brent vs MA30 : +3.7% (proxy backwardation)",
     "source": "yFinance",
-    "updated_at": "2026-05-01T14:41:18.632638"
+    "updated_at": "2026-05-01T14:51:40.410103"
   }
 }
