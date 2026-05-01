@@ -1,0 +1,145 @@
+{
+  "E01": {
+    "auto_status": 0,
+    "signal": "Erreur API GDELT",
+    "source": "GDELT",
+    "snippets": [],
+    "updated_at": "2026-05-01T14:41:11.288828"
+  },
+  "E02": {
+    "auto_status": 0,
+    "signal": "Erreur API GDELT",
+    "source": "GDELT",
+    "snippets": [],
+    "updated_at": "2026-05-01T14:41:11.288846"
+  },
+  "E03": {
+    "auto_status": 0,
+    "signal": "Erreur API GDELT",
+    "source": "GDELT",
+    "snippets": [],
+    "updated_at": "2026-05-01T14:41:11.288850"
+  },
+  "E04": {
+    "auto_status": 0,
+    "signal": "Erreur API GDELT",
+    "source": "GDELT",
+    "snippets": [],
+    "updated_at": "2026-05-01T14:41:11.288861"
+  },
+  "E05": {
+    "auto_status": 0,
+    "signal": "Erreur API GDELT",
+    "source": "GDELT",
+    "snippets": [],
+    "updated_at": "2026-05-01T14:41:11.288865"
+  },
+  "E06": {
+    "auto_status": 0,
+    "signal": "Erreur API GDELT",
+    "source": "GDELT",
+    "snippets": [],
+    "updated_at": "2026-05-01T14:41:11.288868"
+  },
+  "E07": {
+    "auto_status": 0,
+    "signal": "Erreur API GDELT",
+    "source": "GDELT",
+    "snippets": [],
+    "updated_at": "2026-05-01T14:41:11.288873"
+  },
+  "E10": {
+    "auto_status": 0,
+    "signal": "Erreur API GDELT",
+    "source": "GDELT",
+    "snippets": [],
+    "updated_at": "2026-05-01T14:41:11.288876"
+  },
+  "E11": {
+    "auto_status": 0,
+    "signal": "Erreur API GDELT",
+    "source": "GDELT",
+    "snippets": [],
+    "updated_at": "2026-05-01T14:41:11.288880"
+  },
+  "E12": {
+    "auto_status": 0,
+    "signal": "Erreur API GDELT",
+    "source": "GDELT",
+    "snippets": [],
+    "updated_at": "2026-05-01T14:41:11.288884"
+  },
+  "E13": {
+    "auto_status": 0,
+    "signal": "Erreur API GDELT",
+    "source": "GDELT",
+    "snippets": [],
+    "updated_at": "2026-05-01T14:41:11.288887"
+  },
+  "E14": {
+    "auto_status": 0,
+    "signal": "Erreur API GDELT",
+    "source": "GDELT",
+    "snippets": [],
+    "updated_at": "2026-05-01T14:41:11.288890"
+  },
+  "E15": {
+    "auto_status": 0,
+    "signal": "Erreur API GDELT",
+    "source": "GDELT",
+    "snippets": [],
+    "updated_at": "2026-05-01T14:41:11.288922"
+  },
+  "E16": {
+    "auto_status": 0,
+    "signal": "Erreur API GDELT",
+    "source": "GDELT",
+    "snippets": [],
+    "updated_at": "2026-05-01T14:41:11.288932"
+  },
+  "E17": {
+    "auto_status": 0,
+    "signal": "Erreur API GDELT",
+    "source": "GDELT",
+    "snippets": [],
+    "updated_at": "2026-05-01T14:41:11.288936"
+  },
+  "E18": {
+    "auto_status": 0,
+    "signal": "Erreur API GDELT",
+    "source": "GDELT",
+    "snippets": [],
+    "updated_at": "2026-05-01T14:41:11.288939"
+  },
+  "E19": {
+    "auto_status": 0,
+    "signal": "Erreur API GDELT",
+    "source": "GDELT",
+    "snippets": [],
+    "updated_at": "2026-05-01T14:41:11.288942"
+  },
+  "E20": {
+    "auto_status": 0,
+    "signal": "Erreur API GDELT",
+    "source": "GDELT",
+    "snippets": [],
+    "updated_at": "2026-05-01T14:41:11.288944"
+  },
+  "E08": {
+    "auto_status": 0,
+    "signal": "Tankers (FRO/STNG/DHT) moyenne vs MA20 : +3.2%",
+    "source": "yFinance",
+    "details": {
+      "FRO": "+2.3%",
+      "STNG": "+5.3%",
+      "DHT": "+2.1%"
+    },
+    "updated_at": "2026-05-01T14:41:18.445128"
+  },
+  "E09": {
+    "auto_status": 0,
+    "signal": "Brent vs MA30 : +3.2% (proxy backwardation)",
+    "source": "yFinance",
+    "updated_at": "2026-05-01T14:41:18.632638"
+  }
+}
