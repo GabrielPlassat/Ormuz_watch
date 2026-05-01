@@ -1,0 +1,42 @@
+name: Update Tripwires
+
+on:
+  schedule:
+    - cron: '0 * * * *'   # toutes les heures (UTC)
+  workflow_dispatch:       # déclenchement manuel depuis l'onglet Actions
+
+permissions:
+  contents: write          # nécessaire pour git push
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5     # sécurité : tue le job si bloqué
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests yfinance pandas --quiet
+
+      - name: Create data/ directory
+        run: mkdir -p data
+
+      - name: Run update_tripwires
+        run: python scripts/update_tripwires.py
+
+      - name: Commit auto_scores.json
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/auto_scores.json
+          git diff --cached --quiet && echo "Aucun changement" || (
+            git commit -m "auto: update tripwires $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          )
