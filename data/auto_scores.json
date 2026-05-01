@@ -1,69 +1,57 @@
 {
   "E01": {
-    "auto_status": 3,
-    "signal": "8 articles pertinents/24h (seuils (1, 3, 7))",
+    "auto_status": 2,
+    "signal": "4 articles pertinents/24h (seuils (1, 3, 7))",
     "source": "RSS",
     "snippets": [
       "‘Turbulent and dangerous’: How shipping is the new global battleground (Al Jazeera)",
-      "Iran’s Supreme Leader Signals Plan to Maintain Control Over Strait of Hormuz (NYT World)",
-      "Iran Sends New Proposal for Peace Talks with U.S., State Media Says (NYT World)"
+      "High Gas Prices Are Just the Start of a Much Deeper Energy Crunch (OilPrice)",
+      "Hormuz disruption shows why early-warning data matters (Hellenic Shipping)"
     ],
-    "updated_at": "2026-05-01T15:03:15.924090"
+    "updated_at": "2026-05-01T15:08:09.867688"
   },
   "E02": {
-    "auto_status": 3,
-    "signal": "8 articles pertinents/24h (seuils (1, 3, 7))",
+    "auto_status": 2,
+    "signal": "4 articles pertinents/24h (seuils (1, 3, 7))",
     "source": "RSS",
     "snippets": [
       "‘Turbulent and dangerous’: How shipping is the new global battleground (Al Jazeera)",
-      "Iran’s Supreme Leader Signals Plan to Maintain Control Over Strait of Hormuz (NYT World)",
-      "Iran Sends New Proposal for Peace Talks with U.S., State Media Says (NYT World)"
+      "High Gas Prices Are Just the Start of a Much Deeper Energy Crunch (OilPrice)",
+      "Hormuz disruption shows why early-warning data matters (Hellenic Shipping)"
     ],
-    "updated_at": "2026-05-01T15:03:15.924110"
+    "updated_at": "2026-05-01T15:08:09.867707"
   },
   "E03": {
-    "auto_status": 3,
-    "signal": "8 articles pertinents/24h (seuils (1, 3, 7))",
+    "auto_status": 2,
+    "signal": "4 articles pertinents/24h (seuils (1, 3, 7))",
     "source": "RSS",
     "snippets": [
       "‘Turbulent and dangerous’: How shipping is the new global battleground (Al Jazeera)",
-      "Iran’s Supreme Leader Signals Plan to Maintain Control Over Strait of Hormuz (NYT World)",
-      "Iran Sends New Proposal for Peace Talks with U.S., State Media Says (NYT World)"
+      "High Gas Prices Are Just the Start of a Much Deeper Energy Crunch (OilPrice)",
+      "Hormuz disruption shows why early-warning data matters (Hellenic Shipping)"
     ],
-    "updated_at": "2026-05-01T15:03:15.924117"
+    "updated_at": "2026-05-01T15:08:09.867712"
   },
   "E04": {
-    "auto_status": 3,
-    "signal": "14 articles pertinents/24h (seuils (1, 3, 8))",
+    "auto_status": 0,
+    "signal": "0 articles pertinents/24h (seuils (1, 2, 5))",
     "source": "RSS",
-    "snippets": [
-      "Woman killed, children injured as Israel attacks Lebanon (Al Jazeera)",
-      "Gaza aid flotilla vessels taken to Crete after Israeli interception (Al Jazeera)",
-      "More than 40 Iranian seafarers killed during US-Israeli war: Union leader (Al Jazeera)"
-    ],
-    "updated_at": "2026-05-01T15:03:15.924124"
+    "snippets": [],
+    "updated_at": "2026-05-01T15:08:09.867716"
   },
   "E05": {
-    "auto_status": 3,
-    "signal": "14 articles pertinents/24h (seuils (1, 3, 8))",
+    "auto_status": 0,
+    "signal": "0 articles pertinents/24h (seuils (1, 2, 5))",
     "source": "RSS",
-    "snippets": [
-      "Woman killed, children injured as Israel attacks Lebanon (Al Jazeera)",
-      "Gaza aid flotilla vessels taken to Crete after Israeli interception (Al Jazeera)",
-      "More than 40 Iranian seafarers killed during US-Israeli war: Union leader (Al Jazeera)"
-    ],
-    "updated_at": "2026-05-01T15:03:15.924130"
+    "snippets": [],
+    "updated_at": "2026-05-01T15:08:09.867719"
   },
   "E06": {
-    "auto_status": 3,
-    "signal": "14 articles pertinents/24h (seuils (1, 3, 8))",
+    "auto_status": 0,
+    "signal": "0 articles pertinents/24h (seuils (1, 2, 5))",
     "source": "RSS",
-    "snippets": [
-      "Woman killed, children injured as Israel attacks Lebanon (Al Jazeera)",
-      "Gaza aid flotilla vessels taken to Crete after Israeli interception (Al Jazeera)",
-      "More than 40 Iranian seafarers killed during US-Israeli war: Union leader (Al Jazeera)"
-    ],
-    "updated_at": "2026-05-01T15:03:15.924136"
+    "snippets": [],
+    "updated_at": "2026-05-01T15:08:09.867722"
   },
   "E07": {
     "auto_status": 1,
@@ -71,9 +59,9 @@
     "source": "RSS",
     "snippets": [
       "Shipping Interrupted: Tracking the Impact of Disruptions in the Strait of Hormuz (Hellenic Shipping)",
-      "Goodwill Maritime exits the capesize segment with Genco deal (Splash247)"
+      "Iranian official calls Strait of Hormuz Iran’s “natural right” (Middle East Eye)"
     ],
-    "updated_at": "2026-05-01T15:03:15.924143"
+    "updated_at": "2026-05-01T15:08:09.867727"
   },
   "E10": {
     "auto_status": 1,
@@ -81,9 +69,9 @@
     "source": "RSS",
     "snippets": [
       "Shipping Interrupted: Tracking the Impact of Disruptions in the Strait of Hormuz (Hellenic Shipping)",
-      "Goodwill Maritime exits the capesize segment with Genco deal (Splash247)"
+      "Iranian official calls Strait of Hormuz Iran’s “natural right” (Middle East Eye)"
     ],
-    "updated_at": "2026-05-01T15:03:15.924150"
+    "updated_at": "2026-05-01T15:08:09.867731"
   },
   "E11": {
     "auto_status": 1,
@@ -91,29 +79,27 @@
     "source": "RSS",
     "snippets": [
       "Shipping Interrupted: Tracking the Impact of Disruptions in the Strait of Hormuz (Hellenic Shipping)",
-      "Goodwill Maritime exits the capesize segment with Genco deal (Splash247)"
+      "Iranian official calls Strait of Hormuz Iran’s “natural right” (Middle East Eye)"
     ],
-    "updated_at": "2026-05-01T15:03:15.924156"
+    "updated_at": "2026-05-01T15:08:09.867735"
   },
   "E12": {
-    "auto_status": 1,
-    "signal": "1 articles pertinents/24h (seuils (1, 3, 7))",
+    "auto_status": 0,
+    "signal": "0 articles pertinents/24h (seuils (1, 2, 4))",
     "source": "RSS",
-    "snippets": [
-      "Weather tracker: Tornadoes and giant hail in central US (Guardian World)"
-    ],
-    "updated_at": "2026-05-01T15:03:15.924163"
+    "snippets": [],
+    "updated_at": "2026-05-01T15:08:09.867739"
   },
   "E13": {
-    "auto_status": 3,
-    "signal": "14 articles pertinents/24h (seuils (1, 3, 8))",
+    "auto_status": 2,
+    "signal": "13 articles pertinents/24h (seuils (2, 6, 15))",
     "source": "RSS",
     "snippets": [
       "Woman killed, children injured as Israel attacks Lebanon (Al Jazeera)",
-      "Gaza aid flotilla vessels taken to Crete after Israeli interception (Al Jazeera)",
-      "More than 40 Iranian seafarers killed during US-Israeli war: Union leader (Al Jazeera)"
+      "More than 40 Iranian seafarers killed during US-Israeli war: Union leader (Al Jazeera)",
+      "Iran vows ‘long, painful’ response if US renews attacks (Al Jazeera)"
     ],
-    "updated_at": "2026-05-01T15:03:15.924168"
+    "updated_at": "2026-05-01T15:08:09.867742"
   },
   "E14": {
     "auto_status": 1,
@@ -121,38 +107,34 @@
     "source": "RSS",
     "snippets": [
       "Shipping Interrupted: Tracking the Impact of Disruptions in the Strait of Hormuz (Hellenic Shipping)",
-      "Goodwill Maritime exits the capesize segment with Genco deal (Splash247)"
+      "Iranian official calls Strait of Hormuz Iran’s “natural right” (Middle East Eye)"
     ],
-    "updated_at": "2026-05-01T15:03:15.924174"
+    "updated_at": "2026-05-01T15:08:09.867746"
   },
   "E15": {
-    "auto_status": 3,
-    "signal": "14 articles pertinents/24h (seuils (1, 3, 8))",
+    "auto_status": 2,
+    "signal": "13 articles pertinents/24h (seuils (2, 6, 15))",
     "source": "RSS",
     "snippets": [
       "Woman killed, children injured as Israel attacks Lebanon (Al Jazeera)",
-      "Gaza aid flotilla vessels taken to Crete after Israeli interception (Al Jazeera)",
-      "More than 40 Iranian seafarers killed during US-Israeli war: Union leader (Al Jazeera)"
+      "More than 40 Iranian seafarers killed during US-Israeli war: Union leader (Al Jazeera)",
+      "Iran vows ‘long, painful’ response if US renews attacks (Al Jazeera)"
     ],
-    "updated_at": "2026-05-01T15:03:15.924179"
+    "updated_at": "2026-05-01T15:08:09.867749"
   },
   "E16": {
-    "auto_status": 1,
-    "signal": "1 articles pertinents/24h (seuils (1, 3, 7))",
+    "auto_status": 0,
+    "signal": "0 articles pertinents/24h (seuils (1, 2, 4))",
     "source": "RSS",
-    "snippets": [
-      "Weather tracker: Tornadoes and giant hail in central US (Guardian World)"
-    ],
-    "updated_at": "2026-05-01T15:03:15.924185"
+    "snippets": [],
+    "updated_at": "2026-05-01T15:08:09.867752"
   },
   "E17": {
-    "auto_status": 1,
-    "signal": "1 articles pertinents/24h (seuils (1, 3, 7))",
+    "auto_status": 0,
+    "signal": "0 articles pertinents/24h (seuils (1, 2, 4))",
     "source": "RSS",
-    "snippets": [
-      "Weather tracker: Tornadoes and giant hail in central US (Guardian World)"
-    ],
-    "updated_at": "2026-05-01T15:03:15.924190"
+    "snippets": [],
+    "updated_at": "2026-05-01T15:08:09.867755"
   },
   "E18": {
     "auto_status": 1,
@@ -160,9 +142,9 @@
     "source": "RSS",
     "snippets": [
       "Shipping Interrupted: Tracking the Impact of Disruptions in the Strait of Hormuz (Hellenic Shipping)",
-      "Goodwill Maritime exits the capesize segment with Genco deal (Splash247)"
+      "Iranian official calls Strait of Hormuz Iran’s “natural right” (Middle East Eye)"
     ],
-    "updated_at": "2026-05-01T15:03:15.924196"
+    "updated_at": "2026-05-01T15:08:09.867758"
   },
   "E19": {
     "auto_status": 1,
@@ -170,34 +152,32 @@
     "source": "RSS",
     "snippets": [
       "Shipping Interrupted: Tracking the Impact of Disruptions in the Strait of Hormuz (Hellenic Shipping)",
-      "Goodwill Maritime exits the capesize segment with Genco deal (Splash247)"
+      "Iranian official calls Strait of Hormuz Iran’s “natural right” (Middle East Eye)"
     ],
-    "updated_at": "2026-05-01T15:03:15.924201"
+    "updated_at": "2026-05-01T15:08:09.867762"
   },
   "E20": {
-    "auto_status": 1,
-    "signal": "1 articles pertinents/24h (seuils (1, 3, 7))",
+    "auto_status": 0,
+    "signal": "0 articles pertinents/24h (seuils (1, 2, 4))",
     "source": "RSS",
-    "snippets": [
-      "Weather tracker: Tornadoes and giant hail in central US (Guardian World)"
-    ],
-    "updated_at": "2026-05-01T15:03:15.924207"
+    "snippets": [],
+    "updated_at": "2026-05-01T15:08:09.867765"
   },
   "E08": {
     "auto_status": 0,
-    "signal": "Tankers (FRO/STNG/DHT) moyenne vs MA20 : +2.5%",
+    "signal": "Tankers (FRO/STNG/DHT) moyenne vs MA20 : +2.3%",
     "source": "yFinance",
     "details": {
-      "FRO": "+1.5%",
+      "FRO": "+1.3%",
       "STNG": "+4.4%",
-      "DHT": "+1.5%"
+      "DHT": "+1.4%"
     },
-    "updated_at": "2026-05-01T15:03:22.654001"
+    "updated_at": "2026-05-01T15:08:16.973693"
   },
   "E09": {
     "auto_status": 0,
     "signal": "Brent vs MA30 : +3.9% (proxy backwardation)",
     "source": "yFinance",
-    "updated_at": "2026-05-01T15:03:22.749910"
+    "updated_at": "2026-05-01T15:08:17.202739"
   }
 }
