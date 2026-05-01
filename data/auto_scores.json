@@ -1,141 +1,187 @@
 {
   "E01": {
-    "auto_status": 1,
-    "signal": "3 articles/24h · seuils (1, 4, 10)",
-    "source": "GDELT",
+    "auto_status": 3,
+    "signal": "8 articles pertinents/24h (seuils (1, 3, 7))",
+    "source": "RSS",
     "snippets": [
-      "U . S . Releases Six Iranian Seafarers While Moving for Forfeiture of Tankers (maritime-executive.com)",
-      "Why is piracy rising off Somalia again and is the Iran war responsible ?  (aljazeera.com)",
-      "Why is piracy rising off Somalia again and is the Iran war responsible ? - Grenada Chronic (grenadachronicle.com)"
+      "‘Turbulent and dangerous’: How shipping is the new global battleground (Al Jazeera)",
+      "Iran’s Supreme Leader Signals Plan to Maintain Control Over Strait of Hormuz (NYT World)",
+      "Iran Sends New Proposal for Peace Talks with U.S., State Media Says (NYT World)"
     ],
-    "updated_at": "2026-05-01T14:51:32.743836"
+    "updated_at": "2026-05-01T15:03:15.924090"
   },
   "E02": {
-    "auto_status": 2,
-    "signal": "3 articles/24h · seuils (1, 3, 7)",
-    "source": "GDELT",
+    "auto_status": 3,
+    "signal": "8 articles pertinents/24h (seuils (1, 3, 7))",
+    "source": "RSS",
     "snippets": [
-      "U . S . Releases Six Iranian Seafarers While Moving for Forfeiture of Tankers (maritime-executive.com)",
-      "Why is piracy rising off Somalia again and is the Iran war responsible ?  (aljazeera.com)",
-      "Why is piracy rising off Somalia again and is the Iran war responsible ? - Grenada Chronic (grenadachronicle.com)"
+      "‘Turbulent and dangerous’: How shipping is the new global battleground (Al Jazeera)",
+      "Iran’s Supreme Leader Signals Plan to Maintain Control Over Strait of Hormuz (NYT World)",
+      "Iran Sends New Proposal for Peace Talks with U.S., State Media Says (NYT World)"
     ],
-    "updated_at": "2026-05-01T14:51:32.743857"
+    "updated_at": "2026-05-01T15:03:15.924110"
   },
   "E03": {
-    "auto_status": 2,
-    "signal": "3 articles/24h · seuils (1, 3, 7)",
-    "source": "GDELT",
+    "auto_status": 3,
+    "signal": "8 articles pertinents/24h (seuils (1, 3, 7))",
+    "source": "RSS",
     "snippets": [
-      "U . S . Releases Six Iranian Seafarers While Moving for Forfeiture of Tankers (maritime-executive.com)",
-      "Why is piracy rising off Somalia again and is the Iran war responsible ?  (aljazeera.com)",
-      "Why is piracy rising off Somalia again and is the Iran war responsible ? - Grenada Chronic (grenadachronicle.com)"
+      "‘Turbulent and dangerous’: How shipping is the new global battleground (Al Jazeera)",
+      "Iran’s Supreme Leader Signals Plan to Maintain Control Over Strait of Hormuz (NYT World)",
+      "Iran Sends New Proposal for Peace Talks with U.S., State Media Says (NYT World)"
     ],
-    "updated_at": "2026-05-01T14:51:32.743863"
+    "updated_at": "2026-05-01T15:03:15.924117"
   },
   "E04": {
-    "auto_status": 0,
-    "signal": "Erreur API GDELT",
-    "source": "GDELT",
-    "snippets": [],
-    "updated_at": "2026-05-01T14:51:32.743877"
+    "auto_status": 3,
+    "signal": "14 articles pertinents/24h (seuils (1, 3, 8))",
+    "source": "RSS",
+    "snippets": [
+      "Woman killed, children injured as Israel attacks Lebanon (Al Jazeera)",
+      "Gaza aid flotilla vessels taken to Crete after Israeli interception (Al Jazeera)",
+      "More than 40 Iranian seafarers killed during US-Israeli war: Union leader (Al Jazeera)"
+    ],
+    "updated_at": "2026-05-01T15:03:15.924124"
   },
   "E05": {
-    "auto_status": 0,
-    "signal": "Erreur API GDELT",
-    "source": "GDELT",
-    "snippets": [],
-    "updated_at": "2026-05-01T14:51:32.743881"
+    "auto_status": 3,
+    "signal": "14 articles pertinents/24h (seuils (1, 3, 8))",
+    "source": "RSS",
+    "snippets": [
+      "Woman killed, children injured as Israel attacks Lebanon (Al Jazeera)",
+      "Gaza aid flotilla vessels taken to Crete after Israeli interception (Al Jazeera)",
+      "More than 40 Iranian seafarers killed during US-Israeli war: Union leader (Al Jazeera)"
+    ],
+    "updated_at": "2026-05-01T15:03:15.924130"
   },
   "E06": {
-    "auto_status": 0,
-    "signal": "Erreur API GDELT",
-    "source": "GDELT",
-    "snippets": [],
-    "updated_at": "2026-05-01T14:51:32.743885"
+    "auto_status": 3,
+    "signal": "14 articles pertinents/24h (seuils (1, 3, 8))",
+    "source": "RSS",
+    "snippets": [
+      "Woman killed, children injured as Israel attacks Lebanon (Al Jazeera)",
+      "Gaza aid flotilla vessels taken to Crete after Israeli interception (Al Jazeera)",
+      "More than 40 Iranian seafarers killed during US-Israeli war: Union leader (Al Jazeera)"
+    ],
+    "updated_at": "2026-05-01T15:03:15.924136"
   },
   "E07": {
-    "auto_status": 0,
-    "signal": "0 articles/24h · seuils (1, 2, 5)",
-    "source": "GDELT",
-    "snippets": [],
-    "updated_at": "2026-05-01T14:51:32.743891"
+    "auto_status": 1,
+    "signal": "2 articles pertinents/24h (seuils (2, 5, 12))",
+    "source": "RSS",
+    "snippets": [
+      "Shipping Interrupted: Tracking the Impact of Disruptions in the Strait of Hormuz (Hellenic Shipping)",
+      "Goodwill Maritime exits the capesize segment with Genco deal (Splash247)"
+    ],
+    "updated_at": "2026-05-01T15:03:15.924143"
   },
   "E10": {
-    "auto_status": 0,
-    "signal": "0 articles/24h · seuils (2, 5, 12)",
-    "source": "GDELT",
-    "snippets": [],
-    "updated_at": "2026-05-01T14:51:32.743897"
+    "auto_status": 1,
+    "signal": "2 articles pertinents/24h (seuils (2, 5, 12))",
+    "source": "RSS",
+    "snippets": [
+      "Shipping Interrupted: Tracking the Impact of Disruptions in the Strait of Hormuz (Hellenic Shipping)",
+      "Goodwill Maritime exits the capesize segment with Genco deal (Splash247)"
+    ],
+    "updated_at": "2026-05-01T15:03:15.924150"
   },
   "E11": {
-    "auto_status": 0,
-    "signal": "0 articles/24h · seuils (1, 3, 8)",
-    "source": "GDELT",
-    "snippets": [],
-    "updated_at": "2026-05-01T14:51:32.743902"
+    "auto_status": 1,
+    "signal": "2 articles pertinents/24h (seuils (2, 5, 12))",
+    "source": "RSS",
+    "snippets": [
+      "Shipping Interrupted: Tracking the Impact of Disruptions in the Strait of Hormuz (Hellenic Shipping)",
+      "Goodwill Maritime exits the capesize segment with Genco deal (Splash247)"
+    ],
+    "updated_at": "2026-05-01T15:03:15.924156"
   },
   "E12": {
-    "auto_status": 0,
-    "signal": "Erreur API GDELT",
-    "source": "GDELT",
-    "snippets": [],
-    "updated_at": "2026-05-01T14:51:32.743906"
+    "auto_status": 1,
+    "signal": "1 articles pertinents/24h (seuils (1, 3, 7))",
+    "source": "RSS",
+    "snippets": [
+      "Weather tracker: Tornadoes and giant hail in central US (Guardian World)"
+    ],
+    "updated_at": "2026-05-01T15:03:15.924163"
   },
   "E13": {
-    "auto_status": 0,
-    "signal": "Erreur API GDELT",
-    "source": "GDELT",
-    "snippets": [],
-    "updated_at": "2026-05-01T14:51:32.743909"
+    "auto_status": 3,
+    "signal": "14 articles pertinents/24h (seuils (1, 3, 8))",
+    "source": "RSS",
+    "snippets": [
+      "Woman killed, children injured as Israel attacks Lebanon (Al Jazeera)",
+      "Gaza aid flotilla vessels taken to Crete after Israeli interception (Al Jazeera)",
+      "More than 40 Iranian seafarers killed during US-Israeli war: Union leader (Al Jazeera)"
+    ],
+    "updated_at": "2026-05-01T15:03:15.924168"
   },
   "E14": {
-    "auto_status": 0,
-    "signal": "0 articles/24h · seuils (3, 8, 20)",
-    "source": "GDELT",
-    "snippets": [],
-    "updated_at": "2026-05-01T14:51:32.743914"
+    "auto_status": 1,
+    "signal": "2 articles pertinents/24h (seuils (2, 5, 12))",
+    "source": "RSS",
+    "snippets": [
+      "Shipping Interrupted: Tracking the Impact of Disruptions in the Strait of Hormuz (Hellenic Shipping)",
+      "Goodwill Maritime exits the capesize segment with Genco deal (Splash247)"
+    ],
+    "updated_at": "2026-05-01T15:03:15.924174"
   },
   "E15": {
-    "auto_status": 0,
-    "signal": "Erreur API GDELT",
-    "source": "GDELT",
-    "snippets": [],
-    "updated_at": "2026-05-01T14:51:32.743918"
+    "auto_status": 3,
+    "signal": "14 articles pertinents/24h (seuils (1, 3, 8))",
+    "source": "RSS",
+    "snippets": [
+      "Woman killed, children injured as Israel attacks Lebanon (Al Jazeera)",
+      "Gaza aid flotilla vessels taken to Crete after Israeli interception (Al Jazeera)",
+      "More than 40 Iranian seafarers killed during US-Israeli war: Union leader (Al Jazeera)"
+    ],
+    "updated_at": "2026-05-01T15:03:15.924179"
   },
   "E16": {
-    "auto_status": 0,
-    "signal": "Erreur API GDELT",
-    "source": "GDELT",
-    "snippets": [],
-    "updated_at": "2026-05-01T14:51:32.743921"
+    "auto_status": 1,
+    "signal": "1 articles pertinents/24h (seuils (1, 3, 7))",
+    "source": "RSS",
+    "snippets": [
+      "Weather tracker: Tornadoes and giant hail in central US (Guardian World)"
+    ],
+    "updated_at": "2026-05-01T15:03:15.924185"
   },
   "E17": {
-    "auto_status": 0,
-    "signal": "Erreur API GDELT",
-    "source": "GDELT",
-    "snippets": [],
-    "updated_at": "2026-05-01T14:51:32.743924"
+    "auto_status": 1,
+    "signal": "1 articles pertinents/24h (seuils (1, 3, 7))",
+    "source": "RSS",
+    "snippets": [
+      "Weather tracker: Tornadoes and giant hail in central US (Guardian World)"
+    ],
+    "updated_at": "2026-05-01T15:03:15.924190"
   },
   "E18": {
-    "auto_status": 0,
-    "signal": "0 articles/24h · seuils (2, 5, 12)",
-    "source": "GDELT",
-    "snippets": [],
-    "updated_at": "2026-05-01T14:51:32.743929"
+    "auto_status": 1,
+    "signal": "2 articles pertinents/24h (seuils (2, 5, 12))",
+    "source": "RSS",
+    "snippets": [
+      "Shipping Interrupted: Tracking the Impact of Disruptions in the Strait of Hormuz (Hellenic Shipping)",
+      "Goodwill Maritime exits the capesize segment with Genco deal (Splash247)"
+    ],
+    "updated_at": "2026-05-01T15:03:15.924196"
   },
   "E19": {
-    "auto_status": 0,
-    "signal": "0 articles/24h · seuils (1, 2, 5)",
-    "source": "GDELT",
-    "snippets": [],
-    "updated_at": "2026-05-01T14:51:32.743934"
+    "auto_status": 1,
+    "signal": "2 articles pertinents/24h (seuils (2, 5, 12))",
+    "source": "RSS",
+    "snippets": [
+      "Shipping Interrupted: Tracking the Impact of Disruptions in the Strait of Hormuz (Hellenic Shipping)",
+      "Goodwill Maritime exits the capesize segment with Genco deal (Splash247)"
+    ],
+    "updated_at": "2026-05-01T15:03:15.924201"
   },
   "E20": {
-    "auto_status": 0,
-    "signal": "Erreur API GDELT",
-    "source": "GDELT",
-    "snippets": [],
-    "updated_at": "2026-05-01T14:51:32.743937"
+    "auto_status": 1,
+    "signal": "1 articles pertinents/24h (seuils (1, 3, 7))",
+    "source": "RSS",
+    "snippets": [
+      "Weather tracker: Tornadoes and giant hail in central US (Guardian World)"
+    ],
+    "updated_at": "2026-05-01T15:03:15.924207"
   },
   "E08": {
     "auto_status": 0,
@@ -146,12 +192,12 @@
       "STNG": "+4.4%",
       "DHT": "+1.5%"
     },
-    "updated_at": "2026-05-01T14:51:40.082981"
+    "updated_at": "2026-05-01T15:03:22.654001"
   },
   "E09": {
     "auto_status": 0,
-    "signal": "Brent vs MA30 : +3.7% (proxy backwardation)",
+    "signal": "Brent vs MA30 : +3.9% (proxy backwardation)",
     "source": "yFinance",
-    "updated_at": "2026-05-01T14:51:40.410103"
+    "updated_at": "2026-05-01T15:03:22.749910"
   }
 }
