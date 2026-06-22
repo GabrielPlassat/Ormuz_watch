@@ -1,16 +1,16 @@
 {
   "E08": {
     "status": 1,
-    "signal": "Tankers (FRO/STNG/DHT) moy vs MA20 : +10.0%",
-    "reasoning": "FRO: +15.3% | STNG: +4.4% | DHT: +10.3%",
+    "signal": "Tankers (FRO/STNG/DHT) moy vs MA20 : +11.8%",
+    "reasoning": "FRO: +16.4% | STNG: +6.6% | DHT: +12.3%",
     "source": "yFinance",
-    "updated_at": "2026-06-22T12:18:01.618305"
+    "updated_at": "2026-06-22T17:43:45.938189"
   },
   "E09": {
     "status": 0,
-    "signal": "Brent 79.0$/bbl vs MA30 96.1$ → -17.8%",
-    "reasoning": "Déviation de -17.8% par rapport à la moyenne 30j. Seuils : Veille +8%, Alerte +15%, Déclenché +25%.",
+    "signal": "Brent 77.8$/bbl vs MA30 96.0$ → -19.0%",
+    "reasoning": "Déviation de -19.0% par rapport à la moyenne 30j. Seuils : Veille +8%, Alerte +15%, Déclenché +25%.",
     "source": "yFinance",
-    "updated_at": "2026-06-22T12:18:01.618305"
+    "updated_at": "2026-06-22T17:43:45.938189"
   }
 }
